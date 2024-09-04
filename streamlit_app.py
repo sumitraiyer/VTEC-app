@@ -1,4 +1,4 @@
-    streamlit_code = """
+streamlit_code = """
 import streamlit as st
 import pandas as pd
 st.title("VTEC forecasting")
