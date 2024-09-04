@@ -28,3 +28,4 @@ df.to_csv('data1.csv')
 # Save the Streamlit app to a file
 with open("app.py", "w") as f:
     f.write(streamlit_code)
+)
