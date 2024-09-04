@@ -1,4 +1,3 @@
-st.write(
     streamlit_code = """
 import streamlit as st
 import pandas as pd
