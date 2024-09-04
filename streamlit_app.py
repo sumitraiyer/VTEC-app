@@ -1,5 +1,3 @@
-import streamlit as st
-
 st.title("🎈 My new app")
 st.write(
     streamlit_code = """
@@ -24,8 +22,8 @@ df.to_csv('data1.csv')
 
         
 """
-
+)
 # Save the Streamlit app to a file
 with open("app.py", "w") as f:
     f.write(streamlit_code)
-)
+
